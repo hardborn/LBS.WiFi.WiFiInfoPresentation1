@@ -22,25 +22,25 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="#F7985803"
-            android:textSize="13px" /> 
+            android:textSize="15px" />
             
         <TextView android:id="@+id/info1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="#F7985803"
-            android:textSize="13px" />
+            android:textSize="15px" />
 
         <TextView android:id="@+id/level"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="#F7985803"
-            android:textSize="13px" />
+            android:textSize="15px" />
 
         <TextView android:id="@+id/frequency"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="#F7985803"
-            android:textSize="13px" />
+            android:textSize="15px" />
 
     </LinearLayout>
     
